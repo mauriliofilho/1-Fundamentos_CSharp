@@ -1,0 +1,9 @@
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Form1.resources
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+E:\Repositorios\Alura\1-Fundamentos_CSharp\ex1\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
