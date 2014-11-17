@@ -1,0 +1,9 @@
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\bin\Debug\SomaComAtalho.exe.config
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\bin\Debug\SomaComAtalho.exe
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\bin\Debug\SomaComAtalho.pdb
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\obj\Debug\SomaComAtalho.csprojResolveAssemblyReference.cache
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\obj\Debug\SomaComAtalho.Form1.resources
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\obj\Debug\SomaComAtalho.Properties.Resources.resources
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\obj\Debug\SomaComAtalho.csproj.GenerateResource.Cache
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\obj\Debug\SomaComAtalho.exe
+C:\Users\Maurilio\Documents\GitHub\1-Fundamentos_CSharp\ex2\SomaComAtalho\obj\Debug\SomaComAtalho.pdb
